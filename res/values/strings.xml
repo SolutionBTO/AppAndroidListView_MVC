@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppAndroidListView</string>
+    <string name="code_country">Code Country</string>
+    <string name="country">Country</string>
+	<string name="language">Language</string>
+</resources>

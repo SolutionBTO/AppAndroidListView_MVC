@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+      <TextView
+        android:id="@+id/listview_item_textView1"
+        android:layout_width="70dip"
+        android:layout_height="40dip"
+        android:text="@string/code_country" />
+      
+      <TextView
+        android:id="@+id/listview_item_textView2"
+        android:layout_width="160dip"
+        android:layout_height="40dip"
+        android:text="@string/country" />
+      
+      <TextView
+        android:id="@+id/listview_item_textView3"
+        android:layout_width="100dip"
+        android:layout_height="40dip"
+        android:text="@string/language" />
+</LinearLayout>
